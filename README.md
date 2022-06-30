@@ -1,4 +1,4 @@
-# Chess-Game-using-C
+# Chess-Game
 Simple CMD Chess game
 
 
